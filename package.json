@@ -37,5 +37,8 @@
       "./index.ts"
     ],
     "video": "https://github.com/nicobailon/pi-annotate/raw/refs/heads/main/demo.mp4"
+  },
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*"
   }
 }
